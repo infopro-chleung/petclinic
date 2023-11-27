@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CubaPluginProjectSettings">
+    <option name="groupUpdateScriptsBy" value="MONTH" />
+    <option name="stateVersion" value="1" />
+    <option name="savedDbProperties">
+      <list>
+        <SavedDbProperties>
+          <option name="databaseName" value="clinic-040068" />
+          <option name="dbType" value="postgres" />
+          <option name="dbmsVersion" />
+          <option name="host" value="localhost" />
+          <option name="pass" value="cuba" />
+          <option name="systemPassword" value="" />
+          <option name="systemUser" value="" />
+          <option name="url" value="jdbc:postgresql://localhost/clinic-040068" />
+          <option name="user" value="cuba" />
+        </SavedDbProperties>
+      </list>
+    </option>
+  </component>
+</project>
